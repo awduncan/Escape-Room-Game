@@ -1,4 +1,4 @@
-Mystery Escape Room Description:
+# Mystery Escape Room Description:
 
 The Mystery Escape Room project is a text-to-speech based game where the player is trapped in a room and must find a key 
 to escape. The game utilizes speech recognition to understand the player's commands and responds with text and speech. 
